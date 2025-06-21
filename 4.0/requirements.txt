@@ -1,0 +1,7 @@
+psutil
+requests
+keyboard
+pywin32
+pyperclip
+customtkinter
+pynput
